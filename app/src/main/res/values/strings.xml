@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Temperature Sensor</string>
+    <string name="name">Punto Waskito</string>
+    <string name="nim">19.01.53.0120</string>
+    <string name="btn_proses">PROSES</string>
+    <string name="btn_database">DATABASE</string>
+</resources>
